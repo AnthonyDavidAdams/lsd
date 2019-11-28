@@ -8,7 +8,7 @@ USE OF THE LSD IS AT YOUR OWN RISK. FOR RESEARCH AND ENTERTAINMENT PURPOSES ONLY
 
 ## LSD MICRO
 
-The LSD MICRO aims to be a very simple way to get started. There is only 1 LED array to drive and 1 MOSFET. Surprisingly, this has a very similar if not identical effect. 
+The LSD MICRO aims to be a very simple way to get started. There is only 1 LED array to drive and 1 MOSFET. Surprisingly, this has a very similar if not identical effect to the LSD MACRO.
 
 ## LSD MACRO
 
